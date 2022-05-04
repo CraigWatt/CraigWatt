@@ -2,7 +2,7 @@
 - 👀 I’m interested in React
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on React
-- 📫 How to reach me craig@webrefine.co.uk
+- 📫 How to reach me ...
 
 <!---
 CraigWatt/CraigWatt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
