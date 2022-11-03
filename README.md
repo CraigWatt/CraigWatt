@@ -1,8 +1,13 @@
 - 👋 Hi, I’m @CraigWatt
-- 👀 I’m interested in React
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on React
-- 📫 How to reach me ...
+- 👀 I’m interested in React + TypeScript + Next.js + Component Libraries + CDD (Component Driven Development) & TDD (Test Driven Development)
+- 🌱 I’m currently learning All of the above...
+- 💞️ I’m looking to collaborate on Web App Development that involves React/Next.js
+
+  Here are my active repos: TBA
+  
+
+- 📫 How to reach me ... craig@webrefine.co.uk
+- Checkout my Website CV: craigwatt.co.uk
 
 <!---
 CraigWatt/CraigWatt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
