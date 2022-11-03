@@ -7,7 +7,7 @@
   
 
 - 📫 How to reach me ... craig@webrefine.co.uk
-- Checkout my Website CV: craigwatt.co.uk
+- Checkout my Website CV: craigwatt.co.uk (in progress)
 
 <!---
 CraigWatt/CraigWatt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
