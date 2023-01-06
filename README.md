@@ -8,7 +8,7 @@
 
 - ⬇️ Here are my active repos: https://github.com/CraigWatt/vfo
   
-- 📫 How to reach me ... craig@webrefine.co.uk
+- 📫 How to reach me: craig@webrefine.co.uk
 
 - 🌐 In future, checkout my Website CV: craigwatt.co.uk (in progress)
 
