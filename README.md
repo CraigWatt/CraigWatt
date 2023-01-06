@@ -4,7 +4,7 @@
  
 - 🌱 I’m currently building and always learning more about all of the above...
 
-- 👋 I’m looking to collaborate on C Video Encoding Development (or anything C really...) as well as Web App Development that involves React/Next.js
+- 👋 I’m looking to collaborate on C Video Encoding Development (or anything C really...) as well as Web App Development that involves React/Next.js (or similar)
 
      Here are my active repos: https://github.com/CraigWatt/vfo
   
