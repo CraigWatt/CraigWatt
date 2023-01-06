@@ -6,14 +6,15 @@
 
 - 🎤 I’m looking to collaborate on C Video Encoding Development (or anything C really...) as well as Web App Development that involves React/Next.js (or similar)
 
-     Here are my active repos: https://github.com/CraigWatt/vfo
+- ⬇️ Here are my active repos: https://github.com/CraigWatt/vfo
   
 - 📫 How to reach me ... craig@webrefine.co.uk
-- In future, checkout my Website CV: craigwatt.co.uk (in progress)
 
-- Twitter: https://twitter.com/devcraigwatt
+- 🌐 In future, checkout my Website CV: craigwatt.co.uk (in progress)
 
-- LinkedIn: TBA
+- 🐦 Twitter: https://twitter.com/devcraigwatt
+
+- 🗣️ LinkedIn: TBA
 <!---
 CraigWatt/CraigWatt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
