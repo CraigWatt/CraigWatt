@@ -14,6 +14,8 @@
 
 - 🐦 Twitter: https://twitter.com/devcraigwatt
 
+- ✍️ Medium: TBA
+
 - 🗣️ LinkedIn: TBA
 <!---
 CraigWatt/CraigWatt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
