@@ -14,7 +14,7 @@
 
 - 🐦 Twitter: https://twitter.com/devcraigwatt
 
-- 🎥 Youtube: https://www.youtube.com/@devCraigWatt
+- 🎥 Youtube: https://www.youtube.com/@devcraigwatt
 
 - ✍️ Medium: TBA
 
