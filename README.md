@@ -6,9 +6,9 @@
 
 - 🎤 I’m looking to collaborate on C Video Encoding Development (or anything C really...) as well as Web App Development that involves React/Next.js (or similar)
 
-- ⬇️ Here are my active repos: https://github.com/CraigWatt/vfo + https://github.com/CraigWatt/craig-watt-website
+- ⬇️ Here are my active repos: [vfo](https://github.com/CraigWatt/vfo) + [cv website](https://github.com/CraigWatt/craig-watt-website) 
   
-- 📫 How to reach me: craig@webrefine.co.uk
+- 📫 How to reach me: craig@webrefine.co.uk 
 
 - 🌐 In future, checkout my Website CV: craigwatt.co.uk (in progress)
 
