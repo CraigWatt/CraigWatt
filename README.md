@@ -1,6 +1,6 @@
 - 👷 Hi, I’m @CraigWatt
 
-- 🪛 I’m interested in C + React + TypeScript + Next.js + Component Libraries + CDD (Component Driven Development(Storybook)) & TDD (Test Driven Development) + Serverless (AWS Lambda) + Continuous Integration & Continuous Delivery (Github Actions)
+- 🪛 I’m interested in C + Video Encoding + Streaming Pipelines + React + TypeScript + Next.js + Component Libraries + CDD (Component Driven Development(Storybook)) & TDD (Test Driven Development) + Serverless (AWS Lambda) + Continuous Integration & Continuous Delivery (Github Actions)
  
 - 🏗️ I’m currently building and always learning more about all of the above...
 
