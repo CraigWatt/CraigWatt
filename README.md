@@ -18,7 +18,49 @@
 
 - ✍️ Medium: https://medium.com/@devcraigwatt
 
-- 🗣️ LinkedIn: TBA
+- 🗣️ LinkedIn: https://www.linkedin.com/in/craig-watt-00bbb3103/
+
+Current preffered Web Dev Tech Stack:
+
+Package Managers:
+NPM
+Yarn
+(Bun) <-- must take a look at this
+
+AI tools:
+Midjourney
+
+Design tools:
+Figma
+Storybook
+
+Libraries:
+React
+Stitches
+
+Frameworks:
+Next.js (dynamic)
+?? (static) -- need to check recent tweets/stars to confirm
+
+CI/CD tools:
+Github Actions
+Chromatic (should tie Figma with Storybook more easily)
+
+Project Management tools:
+GitHub Repos + Issues + Projects
+
+Testing Tools:
+storybook/testing-library
+testing-library/react
+Cyprus
+
+Future considerations/Hosting:
+AWS ? Lamba?
+Docker?
+Backend Node.js?
+Database?
+Backend testing?
+
 <!---
 CraigWatt/CraigWatt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
