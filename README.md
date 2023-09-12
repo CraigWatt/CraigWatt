@@ -42,6 +42,7 @@ Radix
 Frameworks:
 Next.js (dynamic)
 ?? (static) -- need to check recent tweets/stars to confirm
+CSR vs SSR?
 
 CI/CD tools:
 Github Actions
