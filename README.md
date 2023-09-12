@@ -25,7 +25,7 @@ Current preffered Web Dev Tech Stack:
 Package Managers:
 NPM
 Yarn
-(Bun) <-- must take a look at this
+(Bun) <-- must take a look at this as it may replace node js and npm and webpack alltogether!  How does this impact next.js framework!?
 
 AI tools:
 Midjourney
