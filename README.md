@@ -1,69 +1,44 @@
-- 👷 Hi, I’m @CraigWatt.  I currently work at Sky as a Content Systems Engineering Specialist Engineer.
+# 👋 Hi, I’m Craig Watt  
 
-- 🪛 I’m interested in C + Video Encoding + Streaming Pipelines + React + TypeScript + Next.js + Component Libraries + CDD (Component Driven Development(Storybook)) & TDD (Test Driven Development) + Serverless (AWS Lambda) + Continuous Integration & Continuous Delivery (Github Actions)
- 
-- 🏗️ I’m currently building and always learning more about all of the above...
+👷 Content Systems Engineering Specialist Engineer at [Sky](https://www.sky.com), with a focus on **Site Reliability Engineering, observability, and full-stack development**.  
 
-- 🎤 I’m looking to collaborate on C Video Encoding Development (or anything C really...) as well as Web App Development that involves React/Next.js (or similar)
+🛠️ I build and maintain systems across:  
+- **Languages & Frameworks:** C, Python, TypeScript, React, Next.js, Tailwind  
+- **Infrastructure & Automation:** AWS, Kubernetes, Terraform, Ansible, Docker  
+- **Observability & Reliability:** Prometheus, Grafana, Telegraf, Concourse CI  
 
-- ⬇️ Here are my active repos: [vfo](https://github.com/CraigWatt/vfo) + [cv website](https://github.com/CraigWatt/craig-watt-website) 
-  
-- 📫 How to reach me: craig@webrefine.co.uk 
+🌟 Current Projects  
+- [`vfo`](https://github.com/CraigWatt/vfo) – a **C/FFmpeg batch encoder** for smart, device-aware video processing.  
+- [Personal site](https://craigwatt.co.uk) – a **Next.js/Tailwind portfolio & blog**, with projects, writing, and experiments in observability and cloud-native infra.
+- [Trading212 Dashboard](https://craigwatt.co.uk/trading212) 
 
-- 🌐 In future, checkout my Website CV: craigwatt.co.uk (in progress)
+📌 Interests  
+- Video encoding pipelines (FFmpeg, C, streaming media)  
+- Component-driven frontend development (React, Storybook, TDD)  
+- Automation & reliability engineering (IaC, monitoring exporters, CI/CD)  
 
-- 🐦 Twitter: https://twitter.com/devcraigwatt
+🤝 I’m open to collaborations in:  
+- **C systems projects** (video, encoding, performance-critical code)  
+- **Fullstack web apps** using Next.js / React / TypeScript  
 
-- 🎥 Youtube: https://www.youtube.com/@devcraigwatt
+📫 **Reach me:**  
+- Email: [craig@webrefine.co.uk](mailto:craig@webrefine.co.uk)  
+- [LinkedIn](https://www.linkedin.com/in/craig-watt-dev/)  
+- [X](https://x.com/devcraigwatt)
 
-- ✍️ Medium: https://medium.com/@devcraigwatt
+---
 
-- 🗣️ LinkedIn: https://www.linkedin.com/in/craig-watt-00bbb3103/
+### ⚡ Tech Stack  
 
-Current preffered Web Dev Tech Stack:
+**Languages & Frameworks**  
+`C` · `Python` · `TypeScript` · `React` · `Next.js` · `Tailwind`  
 
-Package Managers:
-NPM
-Yarn
-(Bun) <-- must take a look at this as it may replace node js and npm and webpack alltogether!  How does this impact next.js framework!?
+**Cloud & Infra**  
+`AWS` · `Kubernetes` · `Terraform` · `Ansible` · `Docker`  
 
-AI tools:
-Midjourney
+**Observability & CI/CD**  
+`Prometheus` · `Grafana` · `Telegraf` · `Concourse CI` · `GitHub Actions`  
 
-Design tools:
-Figma
-Storybook
+---
 
-Libraries:
-React
-Stitches
-Radix
-
-Frameworks:
-Next.js (dynamic)
-?? (static) -- need to check recent tweets/stars to confirm
-CSR vs SSR?
-
-CI/CD tools:
-Github Actions
-Chromatic (should tie Figma with Storybook more easily)
-
-Project Management tools:
-GitHub Repos + Issues + Projects
-
-Testing Tools:
-storybook/testing-library
-testing-library/react
-Cyprus
-
-Future considerations/Hosting:
-AWS ? Lamba?
-Docker?
-Backend Node.js?
-Database?
-Backend testing?
-
-<!---
-CraigWatt/CraigWatt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 Always learning, always building — bringing together **fullstack engineering and SRE practices** to deliver reliable, scalable systems.
