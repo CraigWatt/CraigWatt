@@ -8,7 +8,7 @@
 - **Observability & Reliability:** Prometheus, Grafana, Telegraf, Concourse CI  
 
 🌟 Current Projects  
-- [`vfo`](https://github.com/CraigWatt/vfo) – actively maintained **C/FFmpeg batch encoder** for smart, device-aware video processing.  
+- [vfo](https://github.com/CraigWatt/vfo) – actively maintained **C/FFmpeg batch encoder** for smart, device-aware video processing.  
 - [Personal site](https://craigwatt.co.uk) – a **Next.js/Tailwind portfolio & blog**, featuring projects, technical writing, and observability experiments.  
    - Includes a [Trading212 Dashboard](https://craigwatt.co.uk/trading212) for approachable finance data visualisation.  
 
