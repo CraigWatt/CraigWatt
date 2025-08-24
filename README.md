@@ -8,23 +8,23 @@
 - **Observability & Reliability:** Prometheus, Grafana, Telegraf, Concourse CI  
 
 🌟 Current Projects  
-- [`vfo`](https://github.com/CraigWatt/vfo) – a **C/FFmpeg batch encoder** for smart, device-aware video processing.  
-- [Personal site](https://craigwatt.co.uk) – a **Next.js/Tailwind portfolio & blog**, with projects, writing, and experiments in observability and cloud-native infra.
-- [Trading212 Dashboard](https://craigwatt.co.uk/trading212) 
+- [`vfo`](https://github.com/CraigWatt/vfo) – actively maintained **C/FFmpeg batch encoder** for smart, device-aware video processing.  
+- [Personal site](https://craigwatt.co.uk) – a **Next.js/Tailwind portfolio & blog**, featuring projects, technical writing, and observability experiments.  
+   - Includes a [Trading212 Dashboard](https://craigwatt.co.uk/trading212) for approachable finance data visualisation.  
 
 📌 Interests  
 - Video encoding pipelines (FFmpeg, C, streaming media)  
 - Component-driven frontend development (React, Storybook, TDD)  
 - Automation & reliability engineering (IaC, monitoring exporters, CI/CD)  
 
-🤝 I’m open to collaborations in:  
-- **C systems projects** (video, encoding, performance-critical code)  
-- **Fullstack web apps** using Next.js / React / TypeScript  
+🤝 Open to collaborating on:  
+- **C systems projects** (video encoding, performance-critical tools)  
+- **Fullstack web apps** with Next.js / React / TypeScript  
 
 📫 **Reach me:**  
 - Email: [craig@webrefine.co.uk](mailto:craig@webrefine.co.uk)  
 - [LinkedIn](https://www.linkedin.com/in/craig-watt-dev/)  
-- [X](https://x.com/devcraigwatt)
+- [X (Twitter)](https://x.com/devcraigwatt)  
 
 ---
 
@@ -41,4 +41,4 @@
 
 ---
 
-💡 Always learning, always building — bringing together **fullstack engineering and SRE practices** to deliver reliable, scalable systems.
+💡 Always learning, always building — with a drive to bring **fullstack engineering and SRE practices together** to deliver reliable, scalable, and observable systems.
